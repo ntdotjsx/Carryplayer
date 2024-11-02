@@ -1,4 +1,4 @@
 # Carryplayer
-สคริปสำหรับ SERVER FIVEM อุ้มศพแยกกับอุ้มปกติ
+Script for SERVER FIVEM, carrying a corpse separately from normal carrying.
 
-จำเป็นจะต้องมีสคริป esx_menu_default 🚨
+require -> esx_menu_default 🚨
